@@ -23,4 +23,3 @@ spec:
       containers:
       - image: httpd:alpine3.20
         name: httpd
-        
