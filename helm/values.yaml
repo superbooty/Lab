@@ -1,0 +1,8 @@
+replicaCount: 2
+
+# image: 
+# service: 
+
+podLabels:
+  hello: world
+
